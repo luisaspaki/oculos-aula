@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title> óculos de sol</title>
+        <meta charset=UTF-8>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+
+<p>Os óculos de sol tem aparições desde a pré-história, usados pelos homens que viviam na neve, o povo Inuit. Eram feitos em madeira ou marfim com uma pequena abertura, 
+simulando a abertura dos olhos. Há 4 mil anos os povos do Círculo Polar Ártico já fabricavam óculos feitos de ossos, madeira ou chifres para se proteger dos raios 
+ultravioletas refletidos nas planícies de neve tão comuns naquela região. Sem isso, eles poderiam sofrer o que é conhecido como "a cegueira da neve".</p>
+
+<p>Há registros também da aparição de lentes escuras na China há muitos séculos atrás, mas não para filtrar o sol, essas eram tingidas com chá para a cura de doenças oculares.</p>
+
+<p>O registro mais antigo que temos sobre óculos com lentes escuras que protegiam do sol é do Imperador Nero, no século I, na Roma Antiga. Ele usava lentes verde escuro
+ provavelmente em cristal. Depois disso surgiram os óculos pesados e desconfortáveis na Alemanha. Esses foram aprimorados na França, ficaram mais leves e receberam 
+ encaixe no nariz.</p>
+
+ <img class="sol" src="sol.webp">
+
+    </body>
+
+</html>
