@@ -1,3 +1,12 @@
+nav{
+    font-size: 20px;
+}
+nav li{
+    display: inline;
+    margin: 0 0 0 30%;
+}
+
+
 body{
     background-color: white;
 }
@@ -9,8 +18,7 @@ color: sienna;
     width: 200px;
     margin-left: 45%;
 }
-.{
-    width: 100%;
-    margin-left: 45%;
+.img1{
+    width: 25%;
+    margin-left: 35%;
 }
-
